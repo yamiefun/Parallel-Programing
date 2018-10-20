@@ -15,4 +15,4 @@ read in the total number of tosses and print the estimate.
 
 
 ## Other
-+ If you're interested in the efficiency with different core number, you can run the program using <pre>time ./pi <core #> <tosses #></pre> and compare the wallclock time.
++ If you're interested in the efficiency between different core number, you can run the program using <pre>time ./pi <core #> <tosses #></pre> and compare the wallclock time.
